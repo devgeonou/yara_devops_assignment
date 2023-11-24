@@ -1,0 +1,1 @@
+# yara_devops_assignment
